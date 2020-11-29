@@ -5,4 +5,4 @@
 - `React Native Screens `
 - `React Context` 
 - `React Native Hooks` 
-- `Axios`.
+- `Axios`
